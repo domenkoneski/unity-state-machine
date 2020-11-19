@@ -1,0 +1,17 @@
+{
+  "name": "com.koneski.state-machine",
+  "version": "0.0.1",
+  "displayName": "UnityStateMachine",
+  "description": "Easy State Machine implementation for Unity",
+  "keywords": [
+    "state",
+    "StateMachine"
+  ],
+  "author": {
+    "name": "Domen Koneski",
+    "email": "domen.koneski@gmail.com",
+    "url": "https://domenkoneski.com"
+  },
+  "type": "library",
+  "hideInEditor": false
+}
