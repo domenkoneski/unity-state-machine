@@ -4,7 +4,7 @@ Simple and effective State Machine behaviour implementation for Unity, including
 
 # Installation
 
-Add package from GIT url: 
+Add package from GIT url: https://github.com/domenkoneski/unity-state-machine.git
 
 # Documentation
 
