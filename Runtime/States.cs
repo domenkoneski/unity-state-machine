@@ -10,7 +10,7 @@ namespace Koneski.StateMachine {
         public State() : base() => this.StateTag = GetType().Name;
         public State(string stateTag) => this.StateTag = stateTag;
 
-        public void SetStateMachineContext(StateMachine stateMachine) => stateMachine = this.StateMachine;
+        public void SetStateMachineContext(StateMachine stateMachine) => this.StateMachine = stateMachine;
     }
 
     public abstract class TransitableState : State {
